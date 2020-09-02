@@ -1,0 +1,23 @@
+{
+  "name": "solo-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@firebase/database": "^0.6.11",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "csurf": "^1.11.0",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.0",
+    "firebase": "^7.19.1",
+    "firebase-admin": "^9.1.1",
+    "js-cookie": "^2.2.1",
+    "nodemon": "^2.0.4"
+  }
+}
