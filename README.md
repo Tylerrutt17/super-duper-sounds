@@ -1,4 +1,4 @@
-# SUPER DUPER SOUNDS
+# SUPER DUPER SOUNDS // TYLER RUTT
 ## Features
 - Users Can Create an Account Or Register
 - After logging in, users can access the site
