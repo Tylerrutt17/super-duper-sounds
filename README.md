@@ -1,1 +1,2 @@
-# super-duper-sounds
+# SUPER DUPER SOUNDS
+## Features
